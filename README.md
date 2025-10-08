@@ -1,4 +1,4 @@
-# # Structural Damage Image Classification
+# Structural Damage Image Classification
 
 **UE23CS352A Machine Learning - Mini Project**
 
